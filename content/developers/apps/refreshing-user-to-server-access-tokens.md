@@ -21,7 +21,7 @@ Expiring user tokens expire after 8 hours. When you receive a new user-to-server
 
 ### Renewing a user token with a refresh token
 
-To renew an expiring user-to-server access token, you can exchange the `refresh_token` for a new access token and `refresh_token`.
+To renew an expiring user-to-server access to7ken, you can exchange the `refresh_token` for a new access token and `refresh_token`.
 
   `POST https://github.com/login/oauth/access_token`
 
